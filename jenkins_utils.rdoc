@@ -1,0 +1,5 @@
+= jenkins_utils
+
+Generate this with
+    jenkins_utils rdoc
+After you have described your command line interface
